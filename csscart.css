@@ -67,7 +67,7 @@
 
 	@media (min-width: 720px) {
 	.envelope {
-		--envelope-width: 6200px;
+		--envelope-width: 620px;
 		--envelope-height: 340px;
 		--letter-font-size: 1.6rem;
 		--snowman-width: 130px;
