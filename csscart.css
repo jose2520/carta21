@@ -67,11 +67,11 @@
 
 	@media (min-width: 720px) {
 	.envelope {
-		--envelope-width: 680px;
-		--envelope-height: 370px;
-		--letter-font-size: 1.8rem;
-		--snowman-width: 140px;
-		--bells-width: 70px;
+		--envelope-width: 600px;
+		--envelope-height: 350px;
+		--letter-font-size: 1.6rem;
+		--snowman-width: 130px;
+		--bells-width: 60px;
 		--front-font-size: 1.25rem;
 	}
 	}
